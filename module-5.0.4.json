@@ -60,9 +60,9 @@
     "styles/module.css"
   ],
   "packs": [],
-  "socket": true,
+  "socket": false,
   "url": "https://www.patreon.com/theripper93",
-  "manifest": "https://r2.foundryvtt.com/packages-public/epic-rolls-5e/module.json",
+  "manifest": "https://raw.githubusercontent.com/LordSionnach/testc/refs/heads/main/module-5.0.4.json",
   "relationships": {
     "requires": [],
     "systems": [
